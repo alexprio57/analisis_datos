@@ -25,7 +25,7 @@ This script reads the downloaded data files, analyzes them to find the most comm
 1. Clone the repository:
 
    ```bash
-   git clone https..
+   git clone https://github.com/alexprio57/analisis_datos.git
    ```
    ```bash
    cd analisis_datos
