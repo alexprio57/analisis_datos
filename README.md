@@ -20,6 +20,22 @@ This script clean the wrong data contained in the files
 
 This script reads the downloaded data files, analyzes them to find the most common values in a specific column, and visualizes these values using bar charts.
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https..
+   ```
+   ```bash
+   cd analisis_datos
+   ```
+   
+2. Move to source code : 
+   ```bash
+   cd grupo_4
+   ```
+
 ## Usage
 
 ### Extract Data
