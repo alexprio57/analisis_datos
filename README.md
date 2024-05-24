@@ -47,4 +47,19 @@ python extract_data_grupo_4.py
 
 This will create a data directory (if it does not already exist) and download the latest unavailability data files from the OMIE website.
 
-Please wait for the others programs ! 
+### Clean Data
+
+```bash
+python clean_data_grupo_4.py
+```
+
+### Visualize Data 
+
+To visualize the datas, run the following command:
+
+```bash
+python visualize_data_grupo_4.py
+```
+This will create a graph with the occurencies of each unavailabilities.
+
+
